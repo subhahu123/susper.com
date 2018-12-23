@@ -190,6 +190,7 @@ a {
 .container {
   min-width: 45%;
   margin-top: 10px;
+  margin-left: 50px;
 }
 
 .item {
